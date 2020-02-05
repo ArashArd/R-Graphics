@@ -1,2 +1,4 @@
 x = rnorm(x)
-plot(x)
+
+y = x + 2
+plot(x, y)
