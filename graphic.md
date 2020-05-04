@@ -21,7 +21,7 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 
 And repeat
